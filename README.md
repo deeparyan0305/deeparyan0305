@@ -1,6 +1,6 @@
-### AWP BOOM 💥
+# AWP BOOM 💥
 Welcome to my profile!
-### About Me 👋
+# About Me 👋
 I am an 14 years old Developer & Gamer.Currently learning Full-Stack Web Development.
 I am active on my Discord. Discord Tag: MR.AWP#1358
 ### Plans 📕
