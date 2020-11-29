@@ -4,7 +4,7 @@ Welcome to my profile!
 I am an 14 years old Developer & Gamer.Currently learning Full-Stack Web Development.
 I am active on my Discord. Discord Tag: MR.AWP#1358
 # Plans 📕
- Code my Discord Bot,Bot Ace. It's a CS:GO based Discord Bot.<br/>
+ Code my Discord Bot, Bot Ace. It's a CS:GO based Discord Bot.<br/>
  Learn HTML, CSS and Javascript.<br/>
  Create and Countribute in Open Source Projects.
 
